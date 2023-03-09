@@ -1,0 +1,11 @@
+
+body{
+    text-align: left;
+    font-size: large;
+    font-family: 'Segoe UI';
+    padding: 10;
+    margin: 10;
+    font-weight: 500;
+    color: rgb(233, 237, 238);
+    background-color: rgb(41, 43, 45);
+}
